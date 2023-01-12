@@ -1,4 +1,6 @@
 [core]
-    remote = storage
+    remote = myremote
 ['remote "storage"']
     url = gdrive://1r9f_pTmeWybQUzHsTdnGlSAWQjS2f9zb
+['remote "myremote"']
+    url = /workspaces/data
